@@ -1,0 +1,56 @@
+entity_type,supplier_name,month,risk_score,risk_band,evidence
+Supplier,Perez Inc,2026-01-01,14.7,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Morales-Jones,2026-01-01,8.7,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Walter, Edwards and Rios",2026-01-01,40.4,Moderate,"OTIF deteriorated 32% (87.5% -> 59.7%, trailing 2mo vs prior 2mo).; Average lead time increased from 6.8 to 8.6 days (+27%)."
+Supplier,"Ellis, Baker and Wright",2026-01-01,33.0,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Baker, Richards and Hurst",2026-01-01,14.1,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Robinson-Bright,2026-01-01,33.7,Moderate,"OTIF deteriorated 29% (95.8% -> 68.5%, trailing 2mo vs prior 2mo)."
+Supplier,Davis-Williams,2026-01-01,31.8,Moderate,"OTIF deteriorated 13% (89.7% -> 78.1%, trailing 2mo vs prior 2mo).; Average lead time increased from 5.8 to 6.6 days (+13%)."
+Supplier,Burton Ltd,2026-01-01,11.9,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Brown, James and Ferrell",2026-01-01,55.8,High,Average lead time increased from 8.5 to 9.8 days (+15%).
+Supplier,"Le, Maldonado and Herrera",2026-01-01,35.2,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Peterson, Carter and Moore",2026-01-01,54.2,Moderate,"OTIF improved 9% (45.3% -> 49.4%, trailing 2mo vs prior 2mo)."
+Supplier,"Liu, Baker and Mason",2026-01-01,38.3,Moderate,"OTIF improved 9% (73.6% -> 79.9%, trailing 2mo vs prior 2mo)."
+Supplier,"Gaines, Harrell and Evans",2026-01-01,34.6,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Lynch, Hernandez and Farmer",2026-01-01,58.1,High,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Sellers, George and Burns",2026-01-01,47.3,Moderate,"OTIF deteriorated 30% (77.4% -> 54.5%, trailing 2mo vs prior 2mo)."
+Supplier,Koch-Decker,2026-01-01,40.5,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Brown PLC,2026-01-01,47.8,Moderate,"OTIF improved 16% (58.3% -> 67.9%, trailing 2mo vs prior 2mo).; Average lead time decreased from 8.2 to 7.5 days (-9%)."
+Supplier,Miller Group,2026-01-01,21.8,Low,"OTIF deteriorated 8% (79.6% -> 73.1%, trailing 2mo vs prior 2mo)."
+Supplier,Spence PLC,2026-01-01,16.0,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Anderson Group,2026-01-01,31.3,Moderate,"OTIF improved 19% (60.3% -> 71.8%, trailing 2mo vs prior 2mo)."
+Supplier,"Martin, Rose and Obrien",2026-01-01,44.0,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Campos, Vaughn and Marquez",2026-01-01,16.1,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Santos, Kim and Holmes",2026-01-01,18.4,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Walker LLC,2026-01-01,56.8,High,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Spencer, Chapman and Smith",2026-01-01,46.3,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Brown, Jones and Johnson",2026-01-01,44.5,Moderate,"OTIF deteriorated 10% (63.0% -> 57.0%, trailing 2mo vs prior 2mo)."
+Supplier,Palmer LLC,2026-01-01,32.9,Moderate,"OTIF improved 40% (53.6% -> 75.0%, trailing 2mo vs prior 2mo).; Average lead time decreased from 10.6 to 9.2 days (-14%)."
+Supplier,Lewis-Anderson,2026-01-01,35.9,Moderate,"OTIF deteriorated 14% (75.5% -> 65.2%, trailing 2mo vs prior 2mo).; Average lead time increased from 7.5 to 8.1 days (+8%)."
+Supplier,"Johnston, Sanchez and Kennedy",2026-01-01,20.3,Low,"OTIF improved 15% (71.0% -> 81.7%, trailing 2mo vs prior 2mo)."
+Supplier,Davis Ltd,2026-01-01,48.7,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Henderson-Owens,2026-01-01,33.8,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Nunez Ltd,2026-01-01,58.5,High,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Powell LLC,2026-01-01,21.5,Low,"OTIF improved 9% (77.1% -> 84.3%, trailing 2mo vs prior 2mo)."
+Supplier,Wright and Sons,2026-01-01,26.9,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Taylor-White,2026-01-01,28.5,Low,"OTIF deteriorated 20% (82.8% -> 66.2%, trailing 2mo vs prior 2mo).; Average lead time increased from 8.2 to 9.1 days (+12%)."
+Supplier,Baxter Inc,2026-01-01,8.3,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Garcia, Pearson and Fernandez",2026-01-01,20.7,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Tucker-Lewis,2026-01-01,14.5,Low,"OTIF improved 12% (80.9% -> 90.6%, trailing 2mo vs prior 2mo)."
+Supplier,Martin Inc,2026-01-01,56.6,High,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Horton-Cross,2026-01-01,33.1,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Stanley, Tucker and Lee",2026-01-01,25.2,Low,"OTIF deteriorated 11% (89.0% -> 79.0%, trailing 2mo vs prior 2mo)."
+Supplier,"Edwards, Williams and Woods",2026-01-01,39.9,Moderate,"OTIF deteriorated 18% (83.1% -> 68.0%, trailing 2mo vs prior 2mo)."
+Supplier,"Moore, Yu and Miller",2026-01-01,40.1,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Larson Ltd,2026-01-01,50.5,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Powell PLC,2026-01-01,24.7,Low,"OTIF improved 23% (61.9% -> 76.2%, trailing 2mo vs prior 2mo)."
+Supplier,"Wheeler, Harvey and Barnes",2026-01-01,62.8,High,"OTIF deteriorated 20% (53.8% -> 43.0%, trailing 2mo vs prior 2mo)."
+Supplier,"Mills, Donovan and Harris",2026-01-01,39.2,Moderate,Average lead time increased from 7.1 to 7.8 days (+10%).
+Supplier,Allen-Foster,2026-01-01,58.7,High,"OTIF deteriorated 30% (60.4% -> 42.2%, trailing 2mo vs prior 2mo).; Average lead time increased from 13.3 to 14.6 days (+9%)."
+Supplier,"Evans, Stewart and Walton",2026-01-01,15.1,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Medina PLC,2026-01-01,30.9,Moderate,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,Mahoney Inc,2026-01-01,31.1,Moderate,"OTIF deteriorated 12% (73.1% -> 64.3%, trailing 2mo vs prior 2mo)."
+Supplier,Wood and Sons,2026-01-01,23.6,Low,No material change in this supplier's OTIF or lead time over the recent comparison window.
+Supplier,"Warner, Carr and Archer",2026-01-01,6.4,Low,"OTIF improved 18% (79.3% -> 93.8%, trailing 2mo vs prior 2mo).; Average lead time decreased from 5.3 to 4.3 days (-19%)."
+Supplier,"Smith, Montoya and Evans",2026-01-01,18.9,Low,"OTIF improved 14% (77.4% -> 88.6%, trailing 2mo vs prior 2mo).; Average lead time decreased from 6.2 to 5.7 days (-9%)."
+Supplier,Mcmillan and Sons,2026-01-01,29.8,Low,"OTIF improved 9% (66.2% -> 72.5%, trailing 2mo vs prior 2mo)."

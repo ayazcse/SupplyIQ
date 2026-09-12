@@ -1,0 +1,35 @@
+# SupplyIQ — Python dependencies
+# Versions pinned to what was actually installed and tested in this build.
+# If a pinned version is unavailable on your machine, drop the version pin
+# (pip install pandas) -- the code does not depend on exact patch versions.
+
+# Core data & database
+pandas==3.0.5
+numpy==2.5.3
+sqlalchemy==2.0.52
+
+# Machine learning
+scikit-learn==1.9.0
+lightgbm==4.7.0
+statsmodels==0.15.0
+joblib==1.6.0
+
+# Synthetic data generation
+faker==40.38.0
+
+# API
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+pydantic==2.13.5
+requests==2.34.2
+httpx==0.28.1
+
+# Application
+streamlit==1.63.0
+
+# Utilities
+python-dotenv==1.2.3
+matplotlib==3.11.1
+
+# Testing
+pytest==9.1.1

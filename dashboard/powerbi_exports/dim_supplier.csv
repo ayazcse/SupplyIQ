@@ -1,0 +1,61 @@
+supplier_id,supplier_code,supplier_name,country,archetype,base_otif_rate,base_lead_time_days,lead_time_volatility,defect_rate,cost_volatility,onboarded_year,is_single_source
+1,SUP-0001,Perez Inc,Sri Lanka,excellent,0.978,5.9,0.47,0.0037,0.036,2014,0
+2,SUP-0002,Morales-Jones,United States Minor Outlying Islands,excellent,0.97,9.3,2.86,0.004,0.037,2011,0
+3,SUP-0003,"Walter, Edwards and Rios",Indonesia,reliable,0.897,6.1,2.02,0.0237,0.061,2016,0
+4,SUP-0004,"Ellis, Baker and Wright",Monaco,average,0.77,3.1,0.41,0.0241,0.144,2010,1
+5,SUP-0005,"Baker, Richards and Hurst",Iran,excellent,0.975,9.4,0.76,0.0061,0.044,2013,0
+6,SUP-0006,Robinson-Bright,Malawi,reliable,0.934,7.6,1.85,0.0151,0.096,2021,0
+7,SUP-0007,Davis-Williams,Bouvet Island (Bouvetoya),reliable,0.937,4.9,0.94,0.026,0.08,2018,1
+8,SUP-0008,Burton Ltd,Jamaica,excellent,0.964,8.0,2.24,0.0025,0.049,2014,0
+9,SUP-0009,"Brown, James and Ferrell",Marshall Islands,risky,0.669,5.8,1.26,0.0486,0.21,2011,1
+10,SUP-0010,Maddox-Valencia,Algeria,excellent,0.99,10.2,2.29,0.0021,0.056,2023,0
+11,SUP-0011,"Le, Maldonado and Herrera",Ethiopia,reliable,0.884,10.9,0.93,0.0159,0.083,2010,0
+12,SUP-0012,"Peterson, Carter and Moore",Afghanistan,risky,0.601,14.3,3.95,0.0732,0.172,2018,0
+13,SUP-0013,"Liu, Baker and Mason",Christmas Island,average,0.878,11.4,2.51,0.0354,0.081,2015,1
+14,SUP-0014,"Gaines, Harrell and Evans",Northern Mariana Islands,risky,0.629,7.4,0.99,0.049,0.245,2015,0
+15,SUP-0015,"Lynch, Hernandez and Farmer",Mauritius,risky,0.592,9.5,2.09,0.084,0.234,2011,0
+16,SUP-0016,"Sellers, George and Burns",Bouvet Island (Bouvetoya),average,0.824,10.5,1.12,0.0471,0.141,2020,0
+17,SUP-0017,Koch-Decker,Gambia,average,0.753,14.2,2.65,0.0313,0.13,2018,0
+18,SUP-0018,Brown PLC,Yemen,average,0.803,5.6,1.02,0.0481,0.113,2014,0
+19,SUP-0019,Miller Group,Suriname,excellent,0.957,4.9,0.52,0.0041,0.058,2016,0
+20,SUP-0020,Spence PLC,Seychelles,reliable,0.894,5.2,0.48,0.0204,0.073,2020,0
+21,SUP-0021,Anderson Group,Yemen,risky,0.681,8.5,2.44,0.0466,0.153,2014,0
+22,SUP-0022,"Martin, Rose and Obrien",Croatia,risky,0.746,10.2,2.34,0.0443,0.138,2022,1
+23,SUP-0023,"Campos, Vaughn and Marquez",Iran,average,0.83,5.2,1.61,0.025,0.098,2015,0
+24,SUP-0024,"Santos, Kim and Holmes",British Indian Ocean Territory (Chagos Archipelago),reliable,0.906,4.9,1.64,0.0252,0.089,2018,0
+25,SUP-0025,Walker LLC,Angola,risky,0.57,9.1,1.83,0.0908,0.143,2012,0
+26,SUP-0026,"Spencer, Chapman and Smith",Russian Federation,risky,0.725,7.3,0.9,0.0719,0.152,2013,0
+27,SUP-0027,"Brown, Jones and Johnson",Greenland,risky,0.705,11.8,2.33,0.0694,0.189,2015,0
+28,SUP-0028,Palmer LLC,Paraguay,risky,0.646,8.6,1.28,0.0498,0.192,2011,1
+29,SUP-0029,Lewis-Anderson,Vietnam,excellent,0.987,5.9,1.32,0.0065,0.039,2019,0
+30,SUP-0030,"Johnston, Sanchez and Kennedy",Ireland,average,0.846,6.9,0.65,0.0246,0.144,2012,0
+31,SUP-0031,Davis Ltd,Jersey,average,0.831,13.9,2.76,0.0438,0.095,2014,1
+32,SUP-0032,Henderson-Owens,Saint Lucia,risky,0.606,5.4,1.35,0.0675,0.137,2018,0
+33,SUP-0033,Nunez Ltd,Bolivia,risky,0.614,13.7,2.84,0.0677,0.206,2018,0
+34,SUP-0034,Powell LLC,South Georgia and the South Sandwich Islands,reliable,0.927,11.9,3.36,0.0108,0.072,2023,0
+35,SUP-0035,Wright and Sons,Mauritania,reliable,0.926,9.6,1.81,0.029,0.068,2022,0
+36,SUP-0036,Taylor-White,Kyrgyz Republic,reliable,0.943,6.8,1.35,0.0229,0.067,2017,0
+37,SUP-0037,Baxter Inc,Kenya,excellent,0.977,5.6,0.75,0.007,0.021,2012,0
+38,SUP-0038,"Garcia, Pearson and Fernandez",American Samoa,reliable,0.927,5.4,1.42,0.0155,0.057,2020,0
+39,SUP-0039,House and Sons,Chad,reliable,0.918,5.6,1.39,0.0291,0.081,2010,0
+40,SUP-0040,Tucker-Lewis,Iran,reliable,0.928,8.1,1.62,0.018,0.094,2014,0
+41,SUP-0041,Martin Inc,Iceland,risky,0.614,9.2,1.34,0.0694,0.202,2015,0
+42,SUP-0042,House-Glover,France,average,0.877,9.0,1.83,0.0429,0.133,2022,0
+43,SUP-0043,Horton-Cross,Slovenia,average,0.788,5.4,1.62,0.0376,0.109,2014,0
+44,SUP-0044,"Stanley, Tucker and Lee",Cuba,excellent,0.963,9.7,1.08,0.0086,0.026,2022,0
+45,SUP-0045,Riley PLC,Bahamas,risky,0.589,14.7,5.07,0.0654,0.201,2018,0
+46,SUP-0046,"Edwards, Williams and Woods",Uruguay,average,0.785,13.3,1.7,0.0399,0.088,2010,0
+47,SUP-0047,"Moore, Yu and Miller",Colombia,average,0.815,14.5,3.18,0.0396,0.149,2011,0
+48,SUP-0048,Larson Ltd,Tokelau,risky,0.614,13.4,2.35,0.0655,0.127,2011,0
+49,SUP-0049,Powell PLC,Egypt,average,0.857,11.5,2.45,0.0296,0.132,2013,0
+50,SUP-0050,"Wheeler, Harvey and Barnes",Myanmar,risky,0.569,4.5,0.36,0.072,0.129,2022,0
+51,SUP-0051,"Mills, Donovan and Harris",Saint Barthelemy,average,0.755,5.2,1.62,0.0447,0.092,2013,0
+52,SUP-0052,Allen-Foster,Paraguay,average,0.762,10.9,2.36,0.0421,0.098,2021,0
+53,SUP-0053,"Evans, Stewart and Walton",Barbados,reliable,0.906,4.0,0.41,0.0142,0.088,2014,0
+54,SUP-0054,Ellis PLC,Bolivia,average,0.802,9.1,1.69,0.0241,0.126,2012,0
+55,SUP-0055,Medina PLC,Estonia,risky,0.725,7.4,2.06,0.0532,0.205,2010,0
+56,SUP-0056,Mahoney Inc,Turkmenistan,average,0.842,7.4,1.11,0.0215,0.122,2017,0
+57,SUP-0057,Wood and Sons,Kazakhstan,average,0.857,9.0,1.48,0.0316,0.099,2016,0
+58,SUP-0058,"Warner, Carr and Archer",Palau,excellent,0.95,4.0,1.28,0.0091,0.046,2017,0
+59,SUP-0059,"Smith, Montoya and Evans",Panama,reliable,0.945,4.6,1.21,0.0143,0.079,2010,1
+60,SUP-0060,Mcmillan and Sons,Estonia,reliable,0.91,5.7,1.01,0.0127,0.093,2012,1

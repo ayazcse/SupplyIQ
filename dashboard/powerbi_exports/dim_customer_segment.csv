@@ -1,0 +1,6 @@
+customer_segment_id,segment_name,avg_order_value_index,price_sensitivity
+1,Enterprise,1.09,0.49
+2,Mid-Market,1.37,0.44
+3,Small Business,1.68,0.95
+4,E-Commerce,0.81,0.38
+5,Government,0.83,0.73

@@ -1,0 +1,23 @@
+warehouse_id,warehouse_code,warehouse_name,region_id,capacity_units,automation_level,opened_year
+1,WH-001,North Judithbury Distribution Center,1,41479,Manual,2018
+2,WH-002,East Jill Distribution Center,2,28829,Automated,2021
+3,WH-003,New Roberttown Distribution Center,3,108129,Manual,2018
+4,WH-004,East Jessetown Distribution Center,4,67307,Manual,2014
+5,WH-005,Lake Debra Distribution Center,5,91054,Semi-Automated,2010
+6,WH-006,Robinsonshire Distribution Center,6,139928,Automated,2018
+7,WH-007,Lisatown Distribution Center,7,73410,Manual,2012
+8,WH-008,Lake Roberto Distribution Center,8,29924,Manual,2014
+9,WH-009,Ericmouth Distribution Center,9,80182,Semi-Automated,2009
+10,WH-010,North Noahstad Distribution Center,10,62925,Semi-Automated,2011
+11,WH-011,Cassandraton Distribution Center,1,142239,Automated,2014
+12,WH-012,Herrerafurt Distribution Center,2,101869,Manual,2017
+13,WH-013,New Kellystad Distribution Center,3,119819,Automated,2019
+14,WH-014,Lake Chad Distribution Center,4,129419,Manual,2013
+15,WH-015,Port Keith Distribution Center,5,51142,Manual,2017
+16,WH-016,Port Jesseville Distribution Center,6,128255,Manual,2010
+17,WH-017,Ramirezstad Distribution Center,7,123589,Semi-Automated,2019
+18,WH-018,West Michael Distribution Center,8,81303,Semi-Automated,2017
+19,WH-019,Jacquelineland Distribution Center,9,92234,Semi-Automated,2014
+20,WH-020,New Jessica Distribution Center,10,24844,Manual,2009
+21,WH-021,South Noah Distribution Center,1,77149,Semi-Automated,2017
+22,WH-022,Lake Mark Distribution Center,2,131160,Semi-Automated,2015

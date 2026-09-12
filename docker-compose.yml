@@ -1,0 +1,51 @@
+services:
+  # Runs the full pipeline once (data gen -> ETL -> ML -> risk engine) and
+  # exits. Both api and app wait for this to complete successfully before
+  # starting, so the database/artifacts always exist before anything serves.
+  pipeline:
+    build: .
+    container_name: supplyiq_pipeline
+    command: ["python", "scripts/run_pipeline.py"]
+    volumes:
+      - ./data:/app/data
+      - ./database:/app/database
+      - ./logs:/app/logs
+    env_file:
+      - .env
+
+  api:
+    build: .
+    container_name: supplyiq_api
+    command: ["uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./database:/app/database
+    env_file:
+      - .env
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+
+  app:
+    build: .
+    container_name: supplyiq_streamlit
+    command: ["streamlit", "run", "app/Home.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./database:/app/database
+    env_file:
+      - .env
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+
+# NOTE: This project intentionally uses SQLite (a single file under
+# ./database/) rather than a Postgres service, so it runs anywhere with zero
+# extra infrastructure -- including plain `docker compose up` with no other
+# services to configure. See database/schema/schema_postgres.sql and
+# docs/deployment.md if you want to swap in a real Postgres container for a
+# closer-to-production setup.

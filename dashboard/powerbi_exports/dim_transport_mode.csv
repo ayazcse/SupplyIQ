@@ -1,0 +1,5 @@
+transport_mode_id,mode_name,typical_transit_days_min,typical_transit_days_max,relative_cost_index
+1,Road,2,6,1.4
+2,Rail,4,9,1.0
+3,Air,1,3,4.2
+4,Sea,10,30,0.55
